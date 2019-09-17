@@ -34,3 +34,10 @@ tmp/
 
 # Log files
 *.log
+
+# Local repocitory files
+
+example.txt
+~$text.doc
+text.doc
+demo/
